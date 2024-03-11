@@ -1,3 +1,5 @@
+import rsa
+
 def eucalg(a, b):
 	# make a the bigger one and b the lesser one
 	swapped = False
